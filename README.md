@@ -3,7 +3,7 @@
 ## Instructions for download
 
 #### Using github.com
-1. Using the same browser you logged into your github account with navigate to the following URL: `https://github.com/cwcv2009/transmission.git`
+1. Navigate to the following URL: `https://github.com/cwcv2009/transmission.git`
 2. On the repository github page click on the green code button.
 3. In the drop-down menu click download ZIP
 4. Navigate to the folder the ZIP was downloaded
