@@ -18,7 +18,7 @@
 5. Using the Git utility, run `git clone https://github.com/cwcv2009/transmission.git`
 + You now have downloaded the transmission repository inside your **transmission** directory.
 
-## Instruction for use
+## Instructions for use
 
 
 
